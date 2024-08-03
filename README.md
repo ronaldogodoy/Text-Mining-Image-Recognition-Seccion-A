@@ -1,2 +1,2 @@
 # Text-Mining-Image-Recognition-Seccion-A
-Entrega de laboratorios del curso
+Entrega del laboratorio 1 del curso
